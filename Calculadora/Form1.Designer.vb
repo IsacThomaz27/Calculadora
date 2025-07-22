@@ -47,7 +47,7 @@ Partial Class Form1
         Me.Button1.BackColor = System.Drawing.Color.OrangeRed
         Me.Button1.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(538, 275)
+        Me.Button1.Location = New System.Drawing.Point(526, 255)
         Me.Button1.Margin = New System.Windows.Forms.Padding(0)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(47, 39)
@@ -60,7 +60,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(97, 213)
+        Me.Label1.Location = New System.Drawing.Point(40, 181)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(155, 25)
         Me.Label1.TabIndex = 2
@@ -70,7 +70,7 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(97, 257)
+        Me.Label2.Location = New System.Drawing.Point(40, 225)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(155, 25)
         Me.Label2.TabIndex = 3
@@ -80,7 +80,7 @@ Partial Class Form1
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(96, 302)
+        Me.Label3.Location = New System.Drawing.Point(39, 270)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(155, 25)
         Me.Label3.TabIndex = 4
@@ -90,7 +90,7 @@ Partial Class Form1
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(544, 180)
+        Me.Label4.Location = New System.Drawing.Point(532, 160)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(116, 31)
         Me.Label4.TabIndex = 5
@@ -100,7 +100,7 @@ Partial Class Form1
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(97, 343)
+        Me.Label5.Location = New System.Drawing.Point(40, 311)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(155, 25)
         Me.Label5.TabIndex = 6
@@ -109,7 +109,7 @@ Partial Class Form1
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(278, 212)
+        Me.TextBox1.Location = New System.Drawing.Point(221, 180)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(127, 26)
         Me.TextBox1.TabIndex = 7
@@ -117,7 +117,7 @@ Partial Class Form1
         'TextBox2
         '
         Me.TextBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(278, 256)
+        Me.TextBox2.Location = New System.Drawing.Point(221, 224)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(127, 26)
         Me.TextBox2.TabIndex = 8
@@ -125,7 +125,7 @@ Partial Class Form1
         'TextBox3
         '
         Me.TextBox3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox3.Location = New System.Drawing.Point(278, 298)
+        Me.TextBox3.Location = New System.Drawing.Point(221, 266)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(127, 26)
         Me.TextBox3.TabIndex = 9
@@ -133,7 +133,7 @@ Partial Class Form1
         'TextBox4
         '
         Me.TextBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox4.Location = New System.Drawing.Point(278, 342)
+        Me.TextBox4.Location = New System.Drawing.Point(221, 310)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(127, 26)
         Me.TextBox4.TabIndex = 10
@@ -141,7 +141,7 @@ Partial Class Form1
         'TextBox5
         '
         Me.TextBox5.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.Location = New System.Drawing.Point(538, 224)
+        Me.TextBox5.Location = New System.Drawing.Point(526, 204)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.Size = New System.Drawing.Size(128, 31)
         Me.TextBox5.TabIndex = 11
@@ -166,7 +166,7 @@ Partial Class Form1
         Me.Button2.BackColor = System.Drawing.Color.OrangeRed
         Me.Button2.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(619, 275)
+        Me.Button2.Location = New System.Drawing.Point(607, 255)
         Me.Button2.Margin = New System.Windows.Forms.Padding(0)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(47, 39)
@@ -183,7 +183,7 @@ Partial Class Form1
         Me.Button3.BackColor = System.Drawing.Color.OrangeRed
         Me.Button3.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(619, 331)
+        Me.Button3.Location = New System.Drawing.Point(607, 311)
         Me.Button3.Margin = New System.Windows.Forms.Padding(0)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(47, 39)
@@ -200,7 +200,7 @@ Partial Class Form1
         Me.Button4.BackColor = System.Drawing.Color.OrangeRed
         Me.Button4.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(538, 331)
+        Me.Button4.Location = New System.Drawing.Point(526, 311)
         Me.Button4.Margin = New System.Windows.Forms.Padding(0)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(47, 39)

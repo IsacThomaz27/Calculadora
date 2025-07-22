@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\VB\\calculadora - Bruna C. do Nascimento 2C\\calculadora - Bruna C. do Nascimento 2C\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\VB\\Calculadora_VBNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD4192F-E1A1-4AFE-A655-B71888921111}|Calculadora\\Calculadora.vbproj|C:\\Users\\hp\\Downloads\\VB\\calculadora - Bruna C. do Nascimento 2C\\calculadora - Bruna C. do Nascimento 2C\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{9FD4192F-E1A1-4AFE-A655-B71888921111}|Calculadora\\Calculadora.vbproj|c:\\users\\hp\\downloads\\vb\\calculadora_vbnet\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{9FD4192F-E1A1-4AFE-A655-B71888921111}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD4192F-E1A1-4AFE-A655-B71888921111}|Calculadora\\Calculadora.vbproj|c:\\users\\hp\\downloads\\vb\\calculadora - bruna c. do nascimento 2c\\calculadora - bruna c. do nascimento 2c\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{9FD4192F-E1A1-4AFE-A655-B71888921111}|Calculadora\\Calculadora.vbproj|C:\\Users\\hp\\Downloads\\VB\\Calculadora_VBNET\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{9FD4192F-E1A1-4AFE-A655-B71888921111}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -18,21 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\VB\\calculadora - Bruna C. do Nascimento 2C\\calculadora - Bruna C. do Nascimento 2C\\Calculadora\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\VB\\Calculadora_VBNET\\Calculadora\\Form1.vb",
               "RelativeDocumentMoniker": "Calculadora\\Form1.vb",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\VB\\calculadora - Bruna C. do Nascimento 2C\\calculadora - Bruna C. do Nascimento 2C\\Calculadora\\Form1.vb",
-              "RelativeToolTip": "Calculadora\\Form1.vb",
-              "ViewState": "AgIAAAUAAAAAAAAAAIA9wBAAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\VB\\Calculadora_VBNET\\Calculadora\\Form1.vb*",
+              "RelativeToolTip": "Calculadora\\Form1.vb*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-02-17T14:31:49.126Z",
               "EditorCaption": ""
@@ -41,10 +45,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\VB\\calculadora - Bruna C. do Nascimento 2C\\calculadora - Bruna C. do Nascimento 2C\\Calculadora\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\VB\\Calculadora_VBNET\\Calculadora\\Form1.vb",
               "RelativeDocumentMoniker": "Calculadora\\Form1.vb",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\VB\\calculadora - Bruna C. do Nascimento 2C\\calculadora - Bruna C. do Nascimento 2C\\Calculadora\\Form1.vb [Design]",
-              "RelativeToolTip": "Calculadora\\Form1.vb [Design]",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\VB\\Calculadora_VBNET\\Calculadora\\Form1.vb [Design]*",
+              "RelativeToolTip": "Calculadora\\Form1.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-02-17T14:31:44.273Z",
               "EditorCaption": " [Design]"

@@ -45,6 +45,31 @@
 
 
 
+    Private Sub Buttons_style(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Estilizar botões
+        For Each ctrl As Control In Me.Controls
+            If TypeOf ctrl Is Button Then
+                Dim btn As Button = CType(ctrl, Button)
+                btn.FlatStyle = FlatStyle.Flat
+                btn.FlatAppearance.BorderSize = 0
+                btn.BackColor = Color.OrangeRed
+                btn.ForeColor = Color.Black
+                btn.Font = New Font("Segoe UI", 12, FontStyle.Bold)
+            End If
+        Next
+
+        ' Estilizar caixas de texto
+        For Each ctrl As Control In Me.Controls
+            If TypeOf ctrl Is TextBox Then
+                Dim txt As TextBox = CType(ctrl, TextBox)
+                txt.BorderStyle = BorderStyle.None
+                txt.Font = New Font("Segoe UI", 12)
+                txt.TextAlign = HorizontalAlignment.Center
+            End If
+        Next
+
+
+    End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
